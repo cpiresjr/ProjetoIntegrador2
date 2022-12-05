@@ -1,4 +1,4 @@
-# ProjetoIntegrador3
+# Smart Garden (ProjetoIntegrador 3)
 
 ## Arquivo programaArduidoHumidificador
 
